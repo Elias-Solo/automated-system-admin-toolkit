@@ -1,7 +1,3 @@
-Here's a professional **README.md** file for your **Automated System Administration Toolkit** project:  
-
----
-
 ### 📜 **README.md** – Automated System Administration Toolkit  
 
 ```markdown
